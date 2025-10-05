@@ -1,0 +1,15 @@
+Python 3.9+
+
+XGBoost
+
+LightGBM
+
+Scikit-learn
+
+Pandas
+
+Numpy
+
+Streamlit
+
+Matplotlib / Seaborn
